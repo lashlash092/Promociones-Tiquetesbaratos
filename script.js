@@ -4,7 +4,7 @@ const loadingModal = document.getElementById('loadingModal');
 const countdownElement = document.getElementById('countdown');
 
 // URL de redirección
-const redirectUrl = 'https://agencia-latinamerican-tours.online/app';
+const redirectUrl = 'https://tiquetesbaratoscolombia.vercel.app';
 
 // Contador para la animación
 let countdown = 5;

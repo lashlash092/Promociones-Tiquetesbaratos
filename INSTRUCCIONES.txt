@@ -1,0 +1,40 @@
+INSTRUCCIONES PARA SUBIR TURISMO TRANSCELL A HOSTGATOR
+============================================
+
+CAMBIOS IMPLEMENTADOS:
+- Ahora cuando se hace clic en el botón "COMPRAR AHORA", aparece una animación de un avión girando
+- Se muestra el mensaje "Cargando las mejores ofertas, por favor espere..."
+- La animación dura 5 segundos antes de redirigir a la página de destino
+
+PASOS PARA SUBIR EL SITIO:
+
+1. Inicia sesión en tu panel de control de Hostgator (cPanel)
+
+2. Busca y haz clic en "Administrador de archivos"
+
+3. Navega hasta la carpeta pública de tu sitio (normalmente '/public_html/' o la carpeta específica
+   donde quieres alojar este sitio)
+
+4. Sube TODOS los archivos y carpetas que encontrarás en este paquete:
+   - index.html
+   - styles.css
+   - script.js
+   - carpeta 'images' (contiene las imágenes necesarias)
+
+5. Asegúrate de que los archivos estén en la raíz de la carpeta seleccionada y no dentro
+   de una subcarpeta adicional
+
+6. Verifica que el archivo 'index.html' esté presente en la raíz de la carpeta
+
+ESTRUCTURA DE ARCHIVOS:
+- index.html (archivo principal)
+- styles.css (estilos)
+- script.js (funcionalidad)
+- images/ (carpeta con imágenes e iconos)
+
+NOTAS IMPORTANTES:
+- La URL de redirección está configurada en el archivo script.js
+- Esta versión está optimizada para cargarse rápidamente
+- Todos los estilos están en un solo archivo CSS
+
+Si tienes algún problema o pregunta, por favor contacta al desarrollador.
